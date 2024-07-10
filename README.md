@@ -47,4 +47,5 @@ Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em c
 
 - **Nome:** João Marcolino
 - **E-mail:** joaolucasmcs04@gmail.com
-- **LinkedIn:** [João Marcolino]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/joaolucasmcsilva/))
+- **LinkedIn:** [João Marcolino](https://www.linkedin.com/in/joaolucasmcsilva/)
+
