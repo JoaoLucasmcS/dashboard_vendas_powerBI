@@ -19,7 +19,7 @@ Este projeto consiste em um dashboard interativo desenvolvido no Power BI para a
 
 ## Como Visualizar o Dashboard
 
-1. **Baixe o arquivo .pbix:** [dashboard_vendas.pbix](#)
+1. **Baixe o arquivo .pbix:** Cliqeu no arquivo dashboard_vendas.pbix neste repositório e logo em seguida clique em "view raw" para efetuar o download.
 2. **Abra o arquivo no Power BI Desktop:** Certifique-se de ter o Power BI Desktop instalado em sua máquina. Você pode baixá-lo [aqui](https://powerbi.microsoft.com/desktop/).
 
 
